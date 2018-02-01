@@ -1,2 +1,2 @@
-git learning text
-Git is a distributed  version control system
+Git learning
+Git is a version control system
