@@ -1,0 +1,2 @@
+This text is set up for learning Git.
+And the content is meaningless.
