@@ -1,5 +1,1 @@
-I am learning Git from Git document
-Git is a distribution version control system
-And Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+git merge function for merging file.
